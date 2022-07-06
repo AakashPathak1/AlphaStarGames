@@ -10,7 +10,7 @@ Created by Aakash Pathak
 * Find My Number
   * Implementation of Binary Search
   * Searches for a user's number with higher or lower feedback
-![Find My Number Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Find%20My%20Number/Find%20My%20Number.png)
+![Find My Number Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Find%20My%20Number/Find%20My%20Number/Find%20My%20Number.png)
 
 
 
