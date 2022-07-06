@@ -5,11 +5,12 @@ Created by Aakash Pathak
 * Multi file inputs and outputs
 * User-interactive designs.
 
-### The games include: 
+# The games include: 
 
-* Find My Number
+### Find My Number
   * Implementation of Binary Search
   * Searches for a user's number with higher or lower feedback
+
 ![Find My Number Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Find%20My%20Number/Find%20My%20Number/Find%20My%20Number.png)
 
 
