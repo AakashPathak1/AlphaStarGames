@@ -20,5 +20,12 @@ Created by Aakash Pathak
 
 ![Hangman Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Hangman%20Project/Hangman%20Project/Hangman%20Project.png)
 
+### Matches
+  * Player vs Computer game
+  * Player can choose between 1-3 matches to remove. Person who removes last match wins the game.
+  * Implemented random number generation, and turn by turn play
+
+![Matches Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Matches2%20FINAL/Matches2%20FINAL/Matches.png)
+
 
 
