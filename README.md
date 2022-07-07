@@ -34,5 +34,13 @@ Created by Aakash Pathak
 
 ![PacMan Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Pac%20Man%20Game/Pac%20Man%20Game/PacMan.png)
 
+## Pennies
+  * Row of numbers is generated
+  * Player can pop off the right number or the left number
+  * Player with highest score wins
+  * Use of dynamic array changes
+
+![Pennies Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Pennies%20Game/Pennies%20Game/Pennies.png)
+
 
 
