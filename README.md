@@ -14,4 +14,11 @@ Created by Aakash Pathak
 ![Find My Number Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Find%20My%20Number/Find%20My%20Number/Find%20My%20Number.png)
 
 
+### Hangman
+  * Basic Animal Hangman game
+  * Implemented multi file information sharing, and reading from other files.
+
+![Hangman Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Hangman%20Project/Hangman%20Project/Hangman%20Project.png)
+
+
 
