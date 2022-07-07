@@ -27,5 +27,12 @@ Created by Aakash Pathak
 
 ![Matches Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Matches2%20FINAL/Matches2%20FINAL/Matches.png)
 
+## PacMan
+  * Classic game of PacMan
+  * Map can be user-customized by accompanying txt file.
+  * Implemented user input, and random monster movement
+
+![PacMan Picture](https://github.com/AakashPathak1/cplusplus-mini-games/blob/master/Pac%20Man%20Game/Pac%20Man%20Game/PacMan.png)
+
 
 
